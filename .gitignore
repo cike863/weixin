@@ -1,0 +1,10 @@
+bin/
+*.project
+.settings/
+*.classpath
+target/
+.idea/
+*.iml
+*.class
+.externalToolBuilders/
+*/**/MANIFEST.MF
